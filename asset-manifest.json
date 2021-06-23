@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.956fad23.chunk.css",
+    "main.js": "/home/static/js/main.0c7d0a00.chunk.js",
+    "main.js.map": "/home/static/js/main.0c7d0a00.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.ef3efb9f.chunk.js": "/home/static/js/2.ef3efb9f.chunk.js",
+    "static/js/2.ef3efb9f.chunk.js.map": "/home/static/js/2.ef3efb9f.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.4109848df11250dbd5269dca72247676.js": "/home/precache-manifest.4109848df11250dbd5269dca72247676.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.ef3efb9f.chunk.js.LICENSE.txt": "/home/static/js/2.ef3efb9f.chunk.js.LICENSE.txt",
+    "static/media/cogni.jpg": "/home/static/media/cogni.bfb111a7.jpg",
+    "static/media/football.jpg": "/home/static/media/football.267e763a.jpg",
+    "static/media/music.jpg": "/home/static/media/music.61bb28a2.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.217bfd91.pdf",
+    "static/media/swapnilsen.jpeg": "/home/static/media/swapnilsen.d7dc6642.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.ef3efb9f.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.0c7d0a00.chunk.js"
+  ]
+}
